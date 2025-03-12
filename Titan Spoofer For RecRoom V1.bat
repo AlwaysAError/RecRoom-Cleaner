@@ -3,7 +3,7 @@ REM LAUNCH SETTINGS
 REM ==============================
 
 @echo off
-TITLE RecRoom Spoofer By Glaches on GitHub
+TITLE RecRoom Spoofer By AlwaysAError on GitHub
 color 05
 mode con cols=80 lines=25
 chcp 65001 >nul
@@ -47,7 +47,7 @@ echo [38;5;103m[Check HWID's -:- 7
 echo]
 
 echo [38;5;219m========================================================================================================================
-echo [38;5;219mVersion 1.0 User Build By Glaches on GitHub
+echo [38;5;219mVersion 1.0 User Build By AlwaysAError on GitHub
 echo [38;5;219m========================================================================================================================
 
 SET selection=
@@ -340,7 +340,7 @@ REM ==============================
 echo]
 echo   
 echo]
-echo The script it self: Glaches on GitHub
+echo The script it self: AlwaysAError on GitHub
 echo EAC cleaning file's: spinmaster on Discord
 echo]
 echo Enter 1 to return to main menu
@@ -362,7 +362,7 @@ echo]
 echo   
 echo]
 echo Need help or want to get the up to date version of the script?
-echo Then go to Glaches on GitHub!
+echo Then go to AlwaysAError on GitHub!
 echo]
 echo Enter 1 to return to main menu
 
