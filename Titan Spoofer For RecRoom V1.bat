@@ -3,7 +3,7 @@ REM LAUNCH SETTINGS
 REM ==============================
 
 @echo off
-TITLE RecRoom Spoofer By AlwaysAError on GitHub
+TITLE RecRoom Spoofer By Glaches on GitHub
 color 05
 mode con cols=80 lines=25
 chcp 65001 >nul
@@ -47,7 +47,7 @@ echo [38;5;103m[Check HWID's -:- 7
 echo]
 
 echo [38;5;219m========================================================================================================================
-echo [38;5;219mVersion 1.0 User Build By AlwaysAError on GitHub
+echo [38;5;219mVersion 1.0 User Build By Glaches on GitHub
 echo [38;5;219m========================================================================================================================
 
 SET selection=
@@ -76,9 +76,9 @@ del /f /s /q "C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Recent\RecRo
 del /f /s /q "C:\Users\%USERNAME%\Desktop\Rec Room.url"
 del /f /s /q "C:\Windows\Prefetch\RECROOM.EXE-BEC42EED.pf"
 del /f /s /q "C:\Windows\Prefetch\RECROOM_RELEASE.EXE-35556F3D.pf"
-del /f /s /q "%LocalAppData%\Temp\RecRoom
+del /f /s /q "%LocalAppData%\Temp\RecRoom"
 del /f /s /q "%LocalAppData%\Temp\Against Gravity"
-del /f /s /q %AppData%\Microsoft\Windows\Recent\RecRoom.lnk
+del /f /s /q "%AppData%\Microsoft\Windows\Recent\RecRoom.lnk"
 del /f /s /q "%AppData%\Microsoft\Windows\Start Menu\Programs\Steam\Rec Room.url"
 del /f /s /q "C:\Users\%USERNAME%\AppData\Local\Programs\recroom-launcher\Apps\Rec Room\RecRoom.exe.log"
 del /f /s /q "C:\Users\%USERNAME%\AppData\LocalLow\Against Gravity"
@@ -164,6 +164,7 @@ del /f /s /q "C:\users\%USERNAME%\appdata\local\programs\recroom-launcher\resour
 del /f /s /q "C:\users\%USERNAME%\appdata\local\programs\recroom-launcher\resources\libpkapps"
 del /f /s /q "C:\users\%USERNAME%\appdata\local\programs\recroom-launcher\resources\vendor_assets"
 del /f /s /q "C:\users\%USERNAME%\appdata\local\programs\recroom-launcher\swiftshader"
+del /f /s /q "C:\Users\pen72\AppData\Local\Programs\recroom-launcher"
 
 REG DELETE "HKEY_CURRENT_USER\SOFTWARE\Valve\Steam\Apps\471710" /f
 REG DELETE "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /f
@@ -340,7 +341,7 @@ REM ==============================
 echo]
 echo   
 echo]
-echo The script it self: AlwaysAError on GitHub
+echo The script it self: Glaches on GitHub
 echo EAC cleaning file's: spinmaster on Discord
 echo]
 echo Enter 1 to return to main menu
@@ -362,7 +363,7 @@ echo]
 echo   
 echo]
 echo Need help or want to get the up to date version of the script?
-echo Then go to AlwaysAError on GitHub!
+echo Then go to Glaches on GitHub!
 echo]
 echo Enter 1 to return to main menu
 
